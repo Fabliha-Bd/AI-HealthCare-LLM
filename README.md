@@ -6,11 +6,11 @@ LLM for COVID-19 Medication Outcome Prediction: Using GPT-4, Few-shot, Chain-of-
 🧪 Overview
 This project investigates how different prompting strategies and embeddings can be used with LLMs (like GPT-4) to predict survival outcomes for COVID-19 patients based on the medications administered. Approaches include:
 
-Zero-shot and few-shot prompting
+- Zero-shot and few-shot prompting
 
-Chain-of-Thought and Tree-of-Thought reasoning
+- Chain-of-Thought and Tree-of-Thought reasoning
 
-Embedding-based classification models
+- Embedding-based classification models
 
 📂 Repository Contents
 📓 Notebook – Contains implementation of prompt engineering techniques, embedding model, and evaluation metrics
